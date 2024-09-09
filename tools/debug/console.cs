@@ -1,3 +1,8 @@
+//
+//  Simplistic console element, leveraging Godot's expressions and its flexible node system
+//    to expose everything to the end user. You might want to put it in a big #if TOOLS if you
+//    don"t want people modding or cheating in your game.
+//
 using Godot;
 
 // Add a namespace ? <=
