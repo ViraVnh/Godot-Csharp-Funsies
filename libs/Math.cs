@@ -1,7 +1,9 @@
 
+using Godot;
 
 namespace Veila.libs;
 
+[Tool]
 public static class Math
 {
   /// <summary>
